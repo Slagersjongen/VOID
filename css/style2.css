@@ -96,7 +96,7 @@ span, a, a:hover {
   content: '';
   width: 1px;
   height: 35px;
-  background: #FF4E00;
+  background: #5c269d;
   position: absolute;
   left: -1px;
   bottom: 0;
@@ -234,7 +234,7 @@ span, a, a:hover {
 
 .owl-theme .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #FF4E00;
+  background: #5c269d;
 }
 
 /* ----------------------------------------------------------------
@@ -265,7 +265,7 @@ span, a, a:hover {
   transition: all .5s;
 }
 .navbar .navbar-nav .active {
-  color: #FF4E00 !important;
+  color: #5c269d !important;
 }
 
 .nav-scroll {
@@ -327,7 +327,7 @@ span, a, a:hover {
           animation-delay: .6s;
 }
 .header .caption h1 b {
-  color: #FF4E00;
+  color: #5c269d;
 }
 .header .caption p {
   font-size: 16px;
@@ -378,7 +378,7 @@ span, a, a:hover {
 }
 .header .caption .butn-bg {
   background: linear-gradient(to right, #ff6700 1%,#fb7216 55%,	#ff8532 98%);
-  border-color: #FF4E00;
+  border-color: #5c269d;
 }
 .header .arrow {
   position: absolute;
@@ -498,7 +498,7 @@ span, a, a:hover {
 .hero .item .icon {
   font-size: 50px;
   margin-bottom: 15px;
-  color: #FF4E00;
+  color: #5c269d;
 }
 .hero .item h6 {
   margin-bottom: 15px;
@@ -512,7 +512,7 @@ span, a, a:hover {
   height: 50px;
   line-height: 50px;
   text-align: center;
-  background: #FF4E00;
+  background: #5c269d;
   border-radius: 50%;
   color: #14151A;
   font-size: 25px;
@@ -548,7 +548,7 @@ span, a, a:hover {
   left: 0;
   top: 0;
   height: 100%;
-  background: #FF4E00;
+  background: #5c269d;
   width: 10%;
   border-radius: 10px;
   -webkit-transition: all 1s;
@@ -584,7 +584,7 @@ span, a, a:hover {
   font-style: italic;
 }
 .quote h5 {
-  color: #FF4E00;
+  color: #5c269d;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
@@ -618,8 +618,8 @@ span, a, a:hover {
   margin: 0;
 }
 .portfolio .filtering .active {
-  border-color: #FF4E00;
-  color: #FF4E00;
+  border-color: #5c269d;
+  color: #5c269d;
 }
 .portfolio .items {
   margin-top: 30px;
@@ -708,7 +708,7 @@ span, a, a:hover {
 .services .item .icon {
   font-size: 30px;
   margin-bottom: 15px;
-  color: #FF4E00;
+  color: #5c269d;
 }
 .services .item h6 {
   margin-bottom: 15px;
@@ -737,7 +737,7 @@ span, a, a:hover {
   content: '';
   width: 1px;
   height: 100%;
-  background: #FF4E00;
+  background: #5c269d;
   position: absolute;
   right: 1px;
   top: 0;
@@ -762,7 +762,7 @@ span, a, a:hover {
 }
 .serv-tabs .tabs-icon .item .icon {
   font-size: 30px;
-  color: #FF4E00;
+  color: #5c269d;
   margin-bottom: 15px;
 }
 .serv-tabs .tabs-icon .item h6 {
@@ -932,7 +932,7 @@ span, a, a:hover {
   transition: width 0.3s ease;
 }
 .price .order a:hover span {
-  color: #FF4E00;
+  color: #5c269d;
 }
 .price .active {
   -webkit-box-shadow: 0px 5px 40px 0px rgba(0, 0, 0, 0.1);
@@ -952,7 +952,7 @@ span, a, a:hover {
   padding: 80px 15px;
 }
 .testimonails h5 {
-  color: #FF4E00;
+  color: #5c269d;
   font-size: 16px;
   font-weight: 600;
   margin: 15px 0 10px;
@@ -1009,7 +1009,7 @@ span, a, a:hover {
   background: #14151a;
 }
 .blog .item .content .tag {
-  color: #FF4E00;
+  color: #5c269d;
   font-weight: 600;
   margin-bottom: 10px;
 }
@@ -1099,8 +1099,8 @@ span, a, a:hover {
   transition: all .5s;
 }
 .blogs .posts .post .content .butn:hover {
-  background: #FF4E00;
-  border-color: #FF4E00;
+  background: #5c269d;
+  border-color: #5c269d;
   color: #fff;
 }
 .blogs .posts .post .share-post {
@@ -1169,8 +1169,8 @@ span, a, a:hover {
   max-width: 100%;
 }
 .blogs .posts .comment-form .form button[type='submit'] {
-  background: #FF4E00;
-  border: 1px solid #FF4E00;
+  background: #5c269d;
+  border: 1px solid #5c269d;
   color: #14151a;
   padding: 10px 30px;
   margin-top: 15px;
@@ -1201,7 +1201,7 @@ span, a, a:hover {
   transition: width 0.3s ease;
 }
 .blogs .posts .comment-form .form button[type='submit']:hover span {
-  color: #FF4E00;
+  color: #5c269d;
 }
 .blogs .posts .pagination {
   display: block;
@@ -1374,8 +1374,8 @@ span, a, a:hover {
   max-width: 100%;
 }
 .contact .contact-form button[type='submit'] {
-  background: #FF4E00;
-  border: 1px solid #FF4E00;
+  background: #5c269d;
+  border: 1px solid #5c269d;
   color: #14151a;
   padding: 10px 30px;
   margin-top: 15px;
@@ -1406,7 +1406,7 @@ span, a, a:hover {
   transition: width 0.3s ease;
 }
 .contact .contact-form button[type='submit']:hover span {
-  color: #FF4E00;
+  color: #5c269d;
 }
 
 /* ----------------------------------------------------------------
@@ -1463,7 +1463,7 @@ footer p {
     color: #14151a !important;
   }
   .nav-scroll .navbar-collapse .active {
-    color: #FF4E00 !important;
+    color: #5c269d !important;
   }
 
   .header .caption h2 {
