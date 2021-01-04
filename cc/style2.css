@@ -388,7 +388,7 @@ span, a, a:hover {
   z-index: 2;
 }
 .header .caption .butn-bg {
-  background: linear-gradient(to right, #ff6700 1%,	#fb7216 55%, #ff8532 98%);
+  background: linear-gradient(to right, #5c269d 1%,	#6d2dba 55%, #8938eb 98%);
   border-color: #5c269d;
 }
 .header .arrow {
